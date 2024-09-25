@@ -1,0 +1,7 @@
+credits-and-sources.txt
+-----------------------
+- datasets
+	- horror_movies.csv (all variations
+		- source: kraggle
+		- link: https://www.kaggle.com/datasets/sujaykapadnis/horror-movies-dataset
+		- author: Sujay Kapadnis
